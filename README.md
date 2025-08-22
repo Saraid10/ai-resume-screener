@@ -71,6 +71,8 @@ Make sure you have Python 3.9+ and `pip` installed on your system.
     pip install -r requirements.txt
     ```
 
+**Note:** The first time you run the application, it will automatically download the necessary NLTK language models. This might take a moment and will only happen once.
+
 ### ## Running the Application
 
 1.  **Launch the Streamlit app**
@@ -93,11 +95,3 @@ Make sure you have Python 3.9+ and `pip` installed on your system.
 ## ## 📄 License
 
 This project is distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## ## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/YourUsername/ai-resume-screener](https://github.com/YourUsername/ai-resume-screener)
